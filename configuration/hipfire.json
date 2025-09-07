@@ -1,0 +1,6 @@
+{ 
+    "hipfire_mode": "False",
+    "hipfire_xval": 5,
+    "hipfire_yval": 5,
+    "hipfire_speed": 0.048
+}
